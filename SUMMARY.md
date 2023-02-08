@@ -2,3 +2,4 @@
 - Afrikas
   -  [TimeAfrica.md](Afrika/TimeAfrica.md) 
 -  [README.md](README.md) 
+-   [afrika.html](afrika.html) 
