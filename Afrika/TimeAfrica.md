@@ -1,13 +1,13 @@
 ---
 
 ---
-# Fragestellung
+## Fragestellung
 
 Gibt es eine unterschiedliche Bedeutsamkeit der Zeit auf das eigene Handeln in afrikanischen versus europäischen Kulturen?
 
 Wenn ja, lassen sich dadurch ökonomische Effekte identifizieren? 
 
-# Literaturrecherche 
+## Literaturrecherche 
 
 Was gibt es an Literatur zur Bedeutsamkeit von Zeit auf menschliche Handeln
 
@@ -24,7 +24,7 @@ Notizen:
 - meta-analysis on Value to Time (VOT), Zamparini and Reggiani (2007), examined nearly 100 studies (plus Hamermesh 2016) on valuation of time spent traveling; mix aus Zeit- und pekuniären Kosten bei Routenentscheidung "contingent valuation"
 - Time and coordination: some links to institutions and coordination in Hamermesh 2016
 
-# Aufbau eines Experiments
+## Aufbau eines Experiments
 
 Wie könnte man experimentell testen, ob es Effekte Zeit-Perzeption auf wirtschaftliche Entscheidungen gibt?
 
@@ -32,13 +32,13 @@ Wie könnte man experimentell testen, ob es einen Unterschied der Zeit-Perzeptio
 
 
 
-# Nicht-experimentelle Bearbeitung
+## Nicht-experimentelle Bearbeitung
 
 - Spatial-econometric approach
 - Delektieren von mechanischen Uhren und Korrelation mit geografischen Instrumenten als Proxy für regionale Entwicklung
 - Frage: lässt sich etwas vom NHS Datensatz verwenden (die Surveys gehen max bis in 1990er Jahre zurück; könnten man aus den Informationen aber Persistenten unterstellen?)
 
-# Allgemeine Informationen zu Daten-Quellen 
+## Allgemeine Informationen zu Daten-Quellen 
 
 - Demographic Health Survey Data (DHS)
   Health and sociodemographic Survey Data (development countries)

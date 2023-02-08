@@ -1,10 +1,10 @@
-# Idee
+## Idee
 
 - Datenauslese via Python (mit oder ohne API)
 - gegf. Nutzung im Zusammenhang mit dem geplanten Experiment in Äthiopien für Kontrollvariablen
   - wenn man in einem Survey die Probanden nach ein paar Zusatzdaten abfragt, könnte man Geografische Herkunft so eng wie möglich abfragen --> Herausforderungen: setzen der Position auf einer Open-Map; Koordinaten als Wert übernehmen 
 
-# Allgemeine Informationen zu Daten-Quellen 
+## Allgemeine Informationen zu Daten-Quellen 
 
 - Demographic Health Survey Data (DHS)
   Health and sociodemographic Survey Data (development countries)
